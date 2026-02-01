@@ -130,7 +130,7 @@ seaborn >= 0.11.0        # Zaawansowane wizualizacje
 
 ### 1. Sklonuj repozytorium
 ```bash
-git clone https://github.com/twoj-username/credit-scoring.git
+git clone https://github.com/ZwiercanM/credit_scoring-v3
 cd credit-scoring
 ```
 
@@ -416,10 +416,9 @@ credit-scoring/
 **[Twoje Imię]**  
 Credit Risk Modeling Specialist
 
-- 🔗 GitHub: [@twoj-username](https://github.com/twoj-username)
-- 💼 LinkedIn: [Twój Profil](https://linkedin.com/in/twoj-profil)
-- 📧 Email: twoj.email@example.com
-
+- 🔗 GitHub: [ZwiercanM](https://github.com/ZwiercanM)
+- 💼 LinkedIn: [Mateusz Zwiercan](www.linkedin.com/in/mateusz-zwiercan-5020431b7)
+- 📧 Email: mzwiercanlearning@gmail.com
 ---
 
 ## 📚 Dodatkowe zasoby
